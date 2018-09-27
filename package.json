@@ -1,0 +1,11 @@
+{
+  "name": "strngg",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Eric Goetschalckx",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
